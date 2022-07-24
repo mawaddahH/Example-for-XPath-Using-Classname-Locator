@@ -30,7 +30,7 @@ Open the website , Select the Web Element (Class Name) and add in the code
 
 # Code:
 
-<img src="https://user-images.githubusercontent.com/48597284/180661288-fa2aa2f3-5ed8-4683-8664-5ec6e2132cab.png" width=80% height=80%>
+<img src="https://user-images.githubusercontent.com/48597284/180661288-fa2aa2f3-5ed8-4683-8664-5ec6e2132cab.png" width=60% height=60%>
 
 
 # Output:
