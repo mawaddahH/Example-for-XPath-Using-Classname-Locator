@@ -10,7 +10,7 @@ public class chromeWebDriver {
 	public WebDriver driver;
 
   @Test
-  public void f() throws InterruptedException {
+  public void chrom() throws InterruptedException {
 	  System.setProperty("webdriver.chrome.driver",
 				"C:\\Users\\lo0ol\\" + "Downloads\\Compressed\\chromedriver_win32\\chromedriver.exe");
 		driver = new ChromeDriver();
